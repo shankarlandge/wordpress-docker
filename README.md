@@ -23,4 +23,4 @@ docker run -d \
   wordpress:latest
 
 ## 🌐 Access Site
-http://<your-ec2-public-ip>
+http://<your-ec2-public-ip>  .
