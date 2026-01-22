@@ -1,4 +1,4 @@
-# WordPress + MySQL Docker Setup (No Dockerfile, No YAML)
+# WordPress + MySQL Docker Setup (No Dockerfile, No YAML) .
 
 ## 💡 Docker Commands
 
