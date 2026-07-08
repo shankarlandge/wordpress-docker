@@ -1,6 +1,6 @@
 # WordPress + MySQL Docker Setup (No Dockerfile, No YAML) 
 
-## 💡 Docker Commands
+## 💡 Docker Commands .
 
 ### Run MySQL Container
 docker run -d \
